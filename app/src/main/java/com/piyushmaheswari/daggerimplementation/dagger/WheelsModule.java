@@ -1,4 +1,8 @@
-package com.piyushmaheswari.daggerimplementation;
+package com.piyushmaheswari.daggerimplementation.dagger;
+
+import com.piyushmaheswari.daggerimplementation.car.Rims;
+import com.piyushmaheswari.daggerimplementation.car.Tires;
+import com.piyushmaheswari.daggerimplementation.car.Wheels;
 
 import dagger.Module;
 import dagger.Provides;

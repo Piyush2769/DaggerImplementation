@@ -1,4 +1,4 @@
-package com.piyushmaheswari.daggerimplementation;
+package com.piyushmaheswari.daggerimplementation.car;
 
 import javax.inject.Inject;
 

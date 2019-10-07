@@ -1,4 +1,7 @@
-package com.piyushmaheswari.daggerimplementation;
+package com.piyushmaheswari.daggerimplementation.dagger;
+
+import com.piyushmaheswari.daggerimplementation.MainActivity;
+import com.piyushmaheswari.daggerimplementation.car.Car;
 
 import dagger.Component;
 

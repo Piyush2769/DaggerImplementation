@@ -1,6 +1,4 @@
-package com.piyushmaheswari.daggerimplementation;
-
-import javax.inject.Inject;
+package com.piyushmaheswari.daggerimplementation.car;
 
 public class Wheels {
 
