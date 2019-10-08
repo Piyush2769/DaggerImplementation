@@ -7,6 +7,8 @@ import javax.inject.Inject;
 public class DieselEngine implements Engine {
 
     TextView t;
+    TextView td;
+
 
 
     @Inject
