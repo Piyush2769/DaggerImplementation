@@ -8,6 +8,8 @@ public class DieselEngine implements Engine {
 
     TextView t;
     TextView td;
+    TextView tx;
+    TextView tdx;
 
 
 
